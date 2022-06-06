@@ -1,13 +1,21 @@
 # 💫About Me :
- 👋 Hi, I’m @MashoodAli-Official
-    👀 I’m interested in learning the React-Native, Python, Big Data and Artificial Intellegence 😍
-    🌱 I’m currently learning Python and JavaScript(React Native).
-    💞️ I’m looking to collaborate on React-Native Libraries and Big Data.
-    📫 You can contact me at 👇
-    MashoodAli3@gmail.com
-    Instagram/mashoodali_official/
-    LinkedIn/mashood-ali-634655162
-    Stack Overflow/mashood-ali
+👋 Hi, I’m @MashoodAli-Official
+
+👀 I’m interested in learning the React-Native, Python, Big Data and Artificial Intellegence 😍
+
+🌱 I’m currently learning Python and JavaScript(React Native).
+
+💞️ I’m looking to collaborate on React-Native Libraries and Big Data.
+
+📫 You can contact me at👇
+
+MashoodAli3@gmail.com
+
+Instagram/mashoodali_official/
+
+LinkedIn/mashood-ali-634655162
+
+Stack Overflow/mashood-ali
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MashoodAliofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MashoodAli_Official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mashood-ali-634655162) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mashood-Ali-29) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mashood-ali) 
